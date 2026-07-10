@@ -8,7 +8,7 @@ The current code base is only tested on Mac OS, Apple M3 Max Chip, with Python 3
 Follow the instruction of venv (https://docs.python.org/3/library/venv.html) to create a virtual environment and install the required packages as listed in "requirements.txt". We expect the typical install time to be less than 1 hour, usually limited by the time required to install the scipy package.
 
 # Demo:
-Run "ultrafast_review_plot_finalized.ipynb". The expected output is stored alongside with the jupyter notebook file. Expected run time for each figure is less than 1 minute on a typical desktop computer.
+Run "ultrafast_review_plot_rev2-dc-upload.ipynb". The expected output is stored alongside with the jupyter notebook file. Expected run time for each figure is less than 1 minute on a typical desktop computer.
 
 # Instruction of use:
 Follow the documentation in Jupyter notebook/Jupyter Lab (https://jupyter.org/) if you are not familiar with them. You can reproduce all the results by run through the entire "ultrafast_review_plot_finalized.ipynb".
